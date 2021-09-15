@@ -3,7 +3,7 @@ import { Container } from "./styles";
 
 export function TransactionFeed() {
   const { transactions } = useTransaction();
-
+  console.log(transactions);
   function renderTransaction(transaction: any) {
     return (
       <tr key={transaction.id}>

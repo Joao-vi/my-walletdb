@@ -12,7 +12,14 @@ export const Content = styled.div`
   align-items: center;
 
   padding: 2.4rem 1.5rem 9rem 1.5rem;
-
+  .logo {
+    display: flex;
+    gap: 10px;
+    color: var(--card-color);
+    h1 {
+      font-size: 1.5rem;
+    }
+  }
   button {
     font-size: 1.06rem;
     height: 3.2rem;

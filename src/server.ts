@@ -19,7 +19,5 @@ export function makeServer() {
         { timing: 1500 }
       );
     },
-
-    seeds(server) {},
   });
 }
