@@ -12,8 +12,15 @@
   - MirageJs.
   - ContextAPI.
   - React Router.
-
 - Um destaque para o MirageJs, uma biblioteca que simula uma Api Rest e um banco de dados dentro da prória aplicação, incluse dando ate opção de tempo de resposta.
+
+![My WalletDB](https://user-images.githubusercontent.com/83383626/133476525-874d2dbf-2cc3-4aa8-a642-79f6fc3b4da6.png)
+![My WalletDB - Mobile](https://user-images.githubusercontent.com/83383626/133476537-875f0b0d-9d7b-42cf-b172-412ea197b956.png)
+
+
+
+
+
 # Futuros commits:
   - Pretendo criar uma página de login, com autentificação usando o firebase
   - Pretendo usar o banco de dados do firebase
