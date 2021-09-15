@@ -1,7 +1,7 @@
 # My walletDB
 
 - Uma aplicação React com o intuito de gerenciar seus ganhos e gastos no mês.
-- 100% responsivo para Iphone 5+ e para Desktops.
+- 100% responsivo para Iphone 7/8/9/10+ e para Desktops.
 
 - Bibliotecas usadas:
   - Typescript.
